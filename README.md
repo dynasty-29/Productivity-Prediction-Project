@@ -45,7 +45,7 @@ The dataset is from UCI machine learning repository and can be accessed here.
 
   7. no_of_style_change : Number of changes in the style of a particular product
 
-   8.targeted_productivity : Targeted productivity set by the Authority for each team for each day.
+  8.targeted_productivity : Targeted productivity set by the Authority for each team for each day.
 
   9. smv : Standard Minute Value, it is the allocated time for a task
 

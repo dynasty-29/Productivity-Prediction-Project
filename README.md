@@ -16,6 +16,7 @@ Low workforce productivity in a company can lead to reduced profitability, incre
   * Visualising the relationships between actual productivity and the predictor variables.
   * Building a model that can predict employee productivity (Best model should have the lowest RMSE).
   * Identifying the top factors influencing the productivity level of employees.
+  * Deployment of best model []
 ### Recording experimental design
   * Determine the main objectives
   * Load and preview the dataset.

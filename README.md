@@ -1,7 +1,6 @@
 
 # Productivity-Prediction-Project
-![alt text][logo]
-[logo]: https://idsb.tmgrup.com.tr/2015/12/15/GenelBuyuk/1450122285272_rs.jpg
+
 
 ## Introduction
 

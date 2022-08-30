@@ -28,7 +28,7 @@ Low workforce productivity in a company can lead to reduced profitability, incre
   
 #### Data source and column explanations
 
-The dataset is from UCI machine learning repository and can be accessed here [https://archive-beta.ics.uci.edu/ml/datasets?name=Productivity%20Prediction%20of%20Garment%20Employees].
+The dataset is from UCI machine learning repository and can be accessed [here](https://archive-beta.ics.uci.edu/ml/datasets?name=Productivity%20Prediction%20of%20Garment%20Employees).
 
 #### Column definitions:
 

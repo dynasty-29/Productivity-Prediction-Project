@@ -61,3 +61,5 @@ The dataset is from UCI machine learning repository and can be accessed here.
   14. idle_men : The number of workers who were idle due to production interruption
 
   15. actual_productivity : The actual % of productivity that was delivered by the workers. It ranges from 0-1.
+
+

@@ -1,10 +1,11 @@
 
-# Productivity-Prediction-Project
-
+# Productivity Prediction Project
+#### Jupyter notebook
+#### By **Margaret Gathoni, Sharon Olago, Wilkister Mbaka and Gozzo Evrard**
 
 ## Introduction
 
-The garment industry deals with the production of different types of clothing. It is a trillion-dollar industry on the global scale (reference), and is a labor- and capital-intensive industry. Workforce productivity in general refers to a measurement of goods and/or services produced by a group of workers within a given time period. High productivity levels by a team translate to higher profits, and are an indication of efficient use of the inputs in the production process. Worker productivity in the garment industry should therefore be maximized as it is a key factor to its success.
+The garment industry deals with the production of different types of clothing. It is a trillion-dollar industry on the global scale ([reference](https://fashionunited.com/global-fashion-industry-statistics)), and is a labor- and capital-intensive industry. Workforce productivity in general refers to a measurement of goods and/or services produced by a group of workers within a given time period. High productivity levels by a team translate to higher profits, and are an indication of efficient use of the inputs in the production process. Worker productivity in the garment industry should therefore be maximized as it is a key factor to its success.
 
 ## Objective
 
@@ -18,7 +19,7 @@ Low workforce productivity in a company can lead to reduced profitability, incre
   * Visualising the relationships between actual productivity and the predictor variables.
   * Building a model that can predict employee productivity (Best model should have the lowest RMSE).
   * Identifying the top factors influencing the productivity level of employees.
-  * Deployment of best model []
+  * Deployment of best model
 ### Recording experimental design
   * Determine the main objectives
   * Load and preview the dataset.
@@ -62,6 +63,24 @@ The dataset is from UCI machine learning repository and can be accessed [here](h
 
   14. idle_men : The number of workers who were idle due to production interruption
 
-  15. actual_productivity : The actual % of productivity that was delivered by the workers. It ranges from 0-1.
+  15. actual_productivity : The actual % of productivity that was delivered by the workers. 
+  
+  
+  ## Running the app
+*  Access the main colab notebook [here](https://colab.research.google.com/drive/1I-JUr3dMi7Y-5u6WpbaQO7JL4DH4fH-i?usp=sharing)
+
+
+## Technologies Used
+* Jupyter notebook (Python)
+
+
+## Support and contact details
+Github accounts: dynasty-29, WilkisterMbaka, Sharon-Faith, and stephane-evrard
+
+### License
+*MIT License*
+Copyright (c) {2022} ***Margaret Gathoni, Sharon Olago, Wilkister Mbaka and Gozzo Evrard**
+
+
 
 

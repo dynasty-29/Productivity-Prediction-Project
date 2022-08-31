@@ -77,9 +77,9 @@ The dataset is from UCI machine learning repository and can be accessed [here](h
 ## Support and contact details
 Github accounts: dynasty-29, WilkisterMbaka, Sharon-Faith, and stephane-evrard
 
-### License
+## License
 *MIT License*
-Copyright (c) {2022} ***Margaret Gathoni, Sharon Olago, Wilkister Mbaka and Gozzo Evrard**
+Copyright (c) {2022} ***Margaret Gathoni, Sharon Olago, Wilkister Mbaka and Gozzo Evrard***
 
 
 

@@ -72,6 +72,9 @@ The dataset is from UCI machine learning repository and can be accessed [here](h
 
 ## Technologies Used
 * Jupyter notebook (Python)
+* [Tableau](https://public.tableau.com/app/profile/margaret.gathoni/viz/ProductivityPredictionProject/Productivity)
+* [Data Report](https://docs.google.com/document/d/18L3V6A8tIS3UWJ1XKlSnCG0oDE7GbldtNTPBREahC54/edit#heading=h.78630fnupnvr)
+* [Workplan](https://docs.google.com/spreadsheets/d/1dehXH3ZTtSK8wkdMdMXz7COxkds1LyjBjYHdvochE2A/edit#gid=1115838130)
 
 
 ## Support and contact details

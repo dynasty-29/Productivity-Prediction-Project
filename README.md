@@ -71,7 +71,7 @@ The dataset is from UCI machine learning repository and can be accessed [here](h
 
 
 ## Technologies Used
-* [Jupyter notebook]([Python](https://colab.research.google.com/drive/1I-JUr3dMi7Y-5u6WpbaQO7JL4DH4fH-i?usp=sharing))
+* [Jupyter notebook](https://colab.research.google.com/drive/1I-JUr3dMi7Y-5u6WpbaQO7JL4DH4fH-i?usp=sharing)
 * [Tableau](https://public.tableau.com/app/profile/margaret.gathoni/viz/ProductivityPredictionProject/Productivity)
 * [Data Report](https://docs.google.com/document/d/18L3V6A8tIS3UWJ1XKlSnCG0oDE7GbldtNTPBREahC54/edit#heading=h.78630fnupnvr)
 * [Workplan](https://docs.google.com/spreadsheets/d/1dehXH3ZTtSK8wkdMdMXz7COxkds1LyjBjYHdvochE2A/edit#gid=1115838130)
